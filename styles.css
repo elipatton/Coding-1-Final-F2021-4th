@@ -1,0 +1,25 @@
+body{
+    background: rgb(252,145,157);
+    background: linear-gradient(180deg, rgba(252,145,157,1) 0%, rgba(249,154,77,1) 100%);
+}
+
+img{
+    border-radius: 5%;
+}
+
+p{
+    color:white;
+}
+
+div.card{
+    background-color:#fc91a4;
+    border-color: black;
+    border-width: 1px;
+}
+
+.navbar-custom{
+    background-color:white;
+}
+.nav-link{
+    color:#ff8290;
+}
